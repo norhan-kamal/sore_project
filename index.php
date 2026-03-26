@@ -48,37 +48,7 @@
         </div>
     </section>
 
-    <!-- PRODUCTS -->
-    <section class="products">
-        <h2>Product of The Month</h2>
-
-        <div class="products-grid">
-            <div class="product">
-                <img src="https://via.placeholder.com/200">
-                <p>$145</p>
-                <button>Buy now</button>
-            </div>
-
-            <div class="product">
-                <img src="https://via.placeholder.com/200">
-                <p>$145</p>
-                <button>Buy now</button>
-            </div>
-
-            <div class="product">
-                <img src="https://via.placeholder.com/200">
-                <p>$145</p>
-                <button>Buy now</button>
-            </div>
-
-            <div class="product">
-                <img src="https://via.placeholder.com/200">
-                <p>$145</p>
-                <button>Buy now</button>
-            </div>
-        </div>
-    </section>
-
+    
 </div>
 
 <?php include 'includes/footer.php'; ?>
